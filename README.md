@@ -12,3 +12,5 @@
 > Como se visualiza, al momento de ejecutar, aparte de la instalacion de **ffmpeg**, tambien te creara 2 carpetas, **la primera** (descargas), obviamente es donde iran todos los archivos que bajes de "x" plataforma; **la segunda** (thumbnails), es para archivos cache, como la descarga de la miniatura para que se visualice en la plataforma, etc, no te preocupes que eso se elimina automaticamente al dejar de usa el programa.
 
 ![image2](https://github.com/user-attachments/assets/17a59937-5300-4f33-90cc-5f510fdc536e)
+## USO GENERAL:
+> Aunque sea bastante sencillo, nunca esta demas explicarlo, solo colocas la url de la plataforema a utilizar y le das al boton ***"Obtener Info"***
