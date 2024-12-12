@@ -30,4 +30,4 @@
 
 ![image7](https://github.com/user-attachments/assets/0e41dc19-219b-4f64-b2b2-602af4b01efa)
 ## PARA MP3:
-> He añadido metadatos, que significa? que esta musica se descargar con interprete, año, album y de mis cosas favoritas **Caratula**, asi que puedes descargar tu musica de YT music, pasarlo a tu Smatphone y verlo bonito y no vacion con "artista: unknow"
+> He añadido metadatos, que significa? que esta musica se descargar con interprete, año, album y de mis cosas favoritas **Caratula**, asi que puedes descargar tu musica de YT music, pasarlo a tu Smatphone y disfrutar de una buena estetica en vez "artista: unknow"
