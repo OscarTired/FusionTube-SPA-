@@ -8,3 +8,5 @@
 > FFmpeg es un potente paquete de software de código abierto que consta de bibliotecas y herramientas diseñadas para gestionar archivos multimedia, incluidos vídeo, audio e imágenes . Se utiliza ampliamente en la producción y transmisión de medios digitales, así como en aplicaciones de edición, transcodificación y transmisión de vídeo.
 ![image](https://github.com/user-attachments/assets/8b0312a2-db86-42a4-85a4-10828613b975)
 ![image1](https://github.com/user-attachments/assets/19169e91-1a71-48ed-b94a-c6b007c2c912)
+## CREACION DE CARPETAS AUTOMATICAS:
+> Como se visualiza, al momento de ejecutar, aparte de la instalacion de **ffmpeg**, tambien te creara 2 carpetas, **la primera** (descargas), obviamente es donde iran todos los archivos que bajes de "x" plataforma; **la segunda** (thumbnails), es para archivos cache, como la descarga de la miniatura para que se visualice en la plataforma, etc, no te preocupes que eso se elimina automaticamente al dejar de usa el programa.
