@@ -27,3 +27,7 @@
 ![image6](https://github.com/user-attachments/assets/4c544b2d-1ce4-4ecc-8420-00703f8e7e99)
 ### EN CASO SELECCIONAR SI:
 > Se mostrara esta ventana que te muestra el proceso de conversion al **formato h.264** (para mayor transparencia), no te preocupes esta configurado para que solo use un porcentaje de tu CPU, la velocidad dependera de esta misma.
+
+![image7](https://github.com/user-attachments/assets/0e41dc19-219b-4f64-b2b2-602af4b01efa)
+## PARA MP3:
+> He añadido metadatos, que significa? que esta musica se descargar con interprete, año, album y de mis cosas favoritas **Caratula**, asi que puedes descargar tu musica de YT music, pasarlo a tu Smatphone y verlo bonito y no vacion con "artista: unknow"
