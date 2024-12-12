@@ -14,5 +14,7 @@
 ![image2](https://github.com/user-attachments/assets/17a59937-5300-4f33-90cc-5f510fdc536e)
 ## USO GENERAL:
 > Aunque sea bastante sencillo, nunca esta demas explicarlo, solo colocas la url de la plataforma a utilizar y le das al boton ***"Obtener Info"***
-![image4](https://github.com/user-attachments/assets/b42525ea-4f01-4013-854f-62188cd63824)
 ![image3](https://github.com/user-attachments/assets/8d1f57d6-a91c-4bb2-a85b-af23706cac91)
+![image4](https://github.com/user-attachments/assets/b42525ea-4f01-4013-854f-62188cd63824)
+### Dar click en "Formato":
+> Se te dara 2 opciones, mp3 y mp4, al seleccionar cada una te mostraran las opciones disponibles, seleccionas la que prefieras y a **Descargar**
