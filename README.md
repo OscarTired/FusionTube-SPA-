@@ -33,3 +33,7 @@
 > He añadido metadatos, que significa? que la musica se descargara con interprete, año, albúm y de mis cosas favoritas **Caratula**, asi que puedes descargar tu musica de YT music, pasarlo a tu Smatphone y disfrutar de una buena estetica en vez "artista: unknow"
 
 ![movil (1)](https://github.com/user-attachments/assets/26e82ffc-cb6c-4427-8013-c415dd2ce559) ![movil (2)](https://github.com/user-attachments/assets/82713bee-2fc5-42e6-9543-e7b9570fc867)
+## POR ULTIMO:
+> Pero no menos importante, en caso gustes apoyarme puedes hacerlo a travez de la app, ya sea donando o difundiendola, me ayudaria muchisimo el que puedan darme feedback, como que cosa les gustaria añadir, modificar, errores, bugs, todo me sirve, sin mas que decir, en caso no los vuelva a ver, buenos dias, buenas tardes y buenas noches.
+
+![image8](https://github.com/user-attachments/assets/b7c79800-0791-41d4-88bd-fe5c5d085904)
