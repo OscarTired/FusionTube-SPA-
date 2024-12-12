@@ -23,3 +23,7 @@
 ![image5](https://github.com/user-attachments/assets/3a27205a-d627-4bbf-9704-64b2544a5d4f)
 ## EN CASO DESCARGUES UN MP4
 > Te aparecera esta ventana (lee el contenido), **mayormente solo es necesario esta conversion cuando descargas videos con el formato "vp09" o "av"**.
+
+![image6](https://github.com/user-attachments/assets/4c544b2d-1ce4-4ecc-8420-00703f8e7e99)
+## EN CASO SELECCIONAR SI:
+> Se mostrara esta ventana que te muestra el proceso de conversion al **formato h.264** (para mayor transparencia), no te preocupes esta configurado para que solo use un porcentaje de tu CPU, la velocidad dependera de esta misma.
