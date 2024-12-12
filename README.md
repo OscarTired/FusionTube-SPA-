@@ -6,6 +6,7 @@
 > 
 > **Ffmpeg:**
 > FFmpeg es un potente paquete de software de código abierto que consta de bibliotecas y herramientas diseñadas para gestionar archivos multimedia, incluidos vídeo, audio e imágenes . Se utiliza ampliamente en la producción y transmisión de medios digitales, así como en aplicaciones de edición, transcodificación y transmisión de vídeo.
+
 ![image](https://github.com/user-attachments/assets/8b0312a2-db86-42a4-85a4-10828613b975)
 ![image1](https://github.com/user-attachments/assets/19169e91-1a71-48ed-b94a-c6b007c2c912)
 ## CREACION DE CARPETAS AUTOMATICAS:
@@ -18,4 +19,7 @@
 ![image4](https://github.com/user-attachments/assets/b42525ea-4f01-4013-854f-62188cd63824)
 ### Dar click en "Formato":
 > Se te dara 2 opciones, mp3 y mp4, al seleccionar cada una te mostraran las opciones disponibles, seleccionas la que prefieras y a **Descargar**
+
 ![image5](https://github.com/user-attachments/assets/3a27205a-d627-4bbf-9704-64b2544a5d4f)
+## EN CASO DESCARGUES UN MP4
+> Te aparecera esta ventana (lee el contenido), **mayormente solo es necesario esta conversion cuando descargas videos con el formato "vp09" o "av"**.
