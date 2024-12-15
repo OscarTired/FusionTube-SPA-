@@ -33,6 +33,10 @@
 > He añadido metadatos, que significa? que la musica se descargara con interprete, año, albúm y de mis cosas favoritas **Caratula**, asi que puedes descargar tu musica de YT music, pasarlo a tu Smatphone y disfrutar de una buena estetica en vez "artista: unknow"
 
 ![movil (1)](https://github.com/user-attachments/assets/26e82ffc-cb6c-4427-8013-c415dd2ce559) ![movil (2)](https://github.com/user-attachments/assets/82713bee-2fc5-42e6-9543-e7b9570fc867)
+# :rotating_light: IMPORTANTE:
+> El programa que eh creado **no tiene licencia de Windows**, por lo que es normal que en algunas PC's muestre alguna alerta antes de ejecutar (estan caras xd), ademas que en algunos lugares puede haber alertas de que contiene algun tipo de Script malicioso, que **si tiene un script, pero es para el ffmpeg**, ya que varios, estoy seguro, que no saben que es y menos instalarlo, ademas que son varios pasos, asi que decidi simplificarlo para ustedes haciendo que el programa lo haga automatico.
+
+![image9](https://github.com/user-attachments/assets/147cd7ae-fc22-4f7a-953e-8f65715eb55c)
 ## POR ULTIMO:
 > Pero no menos importante, en caso gustes apoyarme puedes hacerlo a travez de la app, ya sea donando o difundiendola, me ayudaria muchisimo el que puedan darme feedback, como que cosa les gustaria añadir, modificar, errores, bugs, todo me sirve, sin mas que decir, en caso no los vuelva a ver, buenos dias, buenas tardes y buenas noches.
 
